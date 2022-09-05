@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@vitejs/create-app": "^2.5.2",
+    "firebase": "^9.9.4"
+  }
+}
